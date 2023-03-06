@@ -76,3 +76,4 @@ git config --global user.email ваша почта@example.com
 * `git switch -` - работает в новых версиях Git;
 * `git switch -с new-branch-name` - команда создаст новую ветку от этой фиксации, для продолжения работы уже в ней.
 
+## 6. Игнорирование файлов
